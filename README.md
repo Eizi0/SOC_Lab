@@ -26,7 +26,7 @@ Bienvenue dans **SOC_Lab**, un environnement de simulation SOC orienté Blue Tea
 
 ## ⚙️ Composants à déployer
 
-- [*] Proxmox + Réseau virtuel
+- [ ] Proxmox + Réseau virtuel
 - [ ] VM Wazuh Manager (avec ELK)
 - [ ] VM Suricata (mode IPS ou mirroring)
 - [ ] VM MISP + intégration avec Wazuh
