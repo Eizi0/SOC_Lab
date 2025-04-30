@@ -28,7 +28,7 @@ Bienvenue dans **SOC_Lab**, un environnement de simulation SOC orienté Blue Tea
 
 - [ ] Proxmox + Réseau virtuel
 - [ ] VM Wazuh Manager (avec ELK)
-- [ ] VM Suricata (mode IPS ou mirroring)
+- [ ] VM OPNSense + Suricata (mode IDS)
 - [ ] VM MISP + intégration avec Wazuh
 - [ ] Règles Sigma + YARA personnalisées
 - [ ] VM Windows/Linux vulnérable
