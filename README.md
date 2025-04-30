@@ -1,7 +1,6 @@
-# SOC_Lab
-# 🛡️ SpidSec Lab – SOC Blue Team (Wazuh, Suricata, Sigma, MISP, YARA)
+# 🛡️ SOC_Lab for Blue Team (Wazuh, Suricata, Sigma, MISP, YARA)
 
-Bienvenue dans **SpidSec Lab**, un environnement de simulation SOC orienté Blue Team, conçu pour apprendre, tester et expérimenter la détection et la réponse aux incidents de sécurité.
+Bienvenue dans **SOC_Lab**, un environnement de simulation SOC orienté Blue Team, conçu pour apprendre, tester et expérimenter la détection et la réponse aux incidents de sécurité.
 
 ## 🎯 Objectifs
 
