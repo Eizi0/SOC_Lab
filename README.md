@@ -6,7 +6,7 @@
 
 ## 🔍 Présentation du Projet
 
-Bienvenue dans mon laboratoire SOC (Security Operations Center) déployé sur Vultr! Ce projet démontre ma capacité à concevoir, déployer et opérer un environnement complet de cybersécurité en conditions réelles.
+Bienvenue dans mon laboratoire SOC (Security Operations Center) déployé sur GCP! Ce projet démontre ma capacité à concevoir, déployer et opérer un environnement complet de cybersécurité en conditions réelles.
 
 > *"La théorie, c'est quand on sait tout et que rien ne fonctionne. La pratique, c'est quand tout fonctionne et que personne ne sait pourquoi. Dans ce laboratoire, j'ai réuni théorie et pratique."*
 
@@ -68,7 +68,7 @@ Bienvenue dans mon laboratoire SOC (Security Operations Center) déployé sur Vu
 
 ```
 ├── Infrastructure Cloud
-│   ├── Vultr
+│   ├── GCP
 │   └── Windows Server/Client
 ├── Sécurité Réseau
 │   ├── OPNSense
