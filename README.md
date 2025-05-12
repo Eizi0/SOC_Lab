@@ -12,7 +12,7 @@ Bienvenue dans mon laboratoire SOC (Security Operations Center) déployé sur GC
 
 ## 🏗️ Architecture Déployée
 
-![Architecture SOC Lab](https://via.placeholder.com/800x400?text=Architecture+SOC+Lab)
+![Architecture SOC Lab](https://github.com/Eizi0/SOC_Lab/blob/main/img/Diagram.png)
 
 ### Composants de l'Infrastructure
 - **Active Directory** (Windows Server 2022) - Gestion centralisée des identités
